@@ -1,8 +1,8 @@
-<img height="200" width="1000" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235189082-d7712a22-10b6-47a5-9da5-0bf71d0adcad.png">
-<h1 align="center">Mahmoud Nasif</h1>
+<img height="300" width="1000" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235189082-d7712a22-10b6-47a5-9da5-0bf71d0adcad.png">
+<h1 align="center">Hey❤️I'm Mahmoud Nasif</h1>
 <h3 align="center">A passionate Robotics and Embedded Systems Engineer from Egypt</h3>
 
-<img align="right" height="400" width="300" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235193647-6d9c741d-a7ce-4798-9034-e3fa7eb06a4d.gif">
+<img align="right" height="350" width="300" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235193647-6d9c741d-a7ce-4798-9034-e3fa7eb06a4d.gif">
 
 
 - 🔭 I’m currently working on **Robotics Software project**
