@@ -1,4 +1,4 @@
-<img height="300" width="1500" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235189082-d7712a22-10b6-47a5-9da5-0bf71d0adcad.png">
+<img height="300" width="1000" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235189082-d7712a22-10b6-47a5-9da5-0bf71d0adcad.png">
 <h1 align="center">Mahmoud Nasif</h1>
 <h3 align="center">A passionate Robotics and Embedded Systems Engineer from Egypt</h3>
 
