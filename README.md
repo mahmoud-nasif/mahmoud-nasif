@@ -6,11 +6,11 @@
 <img align="right" height="350" width="300" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235193647-6d9c741d-a7ce-4798-9034-e3fa7eb06a4d.gif">
 
 
-- 🔭 I’m currently working on **Robotics Software project**
+- 🔭 I’m currently working as **Robotics Software Developer @ bAhead Gmbh, Hamburg, Germany**
 
-- 🌱 I’m currently learning **ROS and Embedded Systems Development**
+- 🌱 I’m currently learning **Advanced ROS and Computer Vision Applications**
 
-- 💬 Ask me about **C/C++,Python, Microcontrollers Programming, Embedded Linux, Raspberry pi, Software Design**
+- 💬 Ask me about **C/C++, Python, Linux, ROS, Embedded Linux, Raspberry Pi/Jetson Nano, Software Design**
 
 - 📫 How to reach me **mahmoudnasif01@gmail.com**
 
