@@ -1,6 +1,7 @@
 <img height="300" width="1500" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235197391-88aeba38-c413-46fe-b4d1-4404ce258f6d.png">
 <h1 align="center">Hey❤️I'm Mahmoud Nasif</h1>
-<h3 align="center">A passionate Robotics and Embedded Systems Engineer from Egypt</h3>
+<h3 align="center">A passionate Robotics Engineer from Egypt🇪🇬</h3>
+<h3 align="center">Now: Mechatronics Master’s <student @ TUHH, Hamburg, Germany🇩🇪</h3>
 
 
 <img align="right" height="350" width="300" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235193647-6d9c741d-a7ce-4798-9034-e3fa7eb06a4d.gif">
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **mahmoudnasif01@gmail.com**
 
-- 📄 Know about my experiences [t.ly/7co7](t.ly/7co7)
+- 📄 Know about my experiences [Myresume](https://drive.google.com/file/d/1nSCkuMXIUFEbgmGuIEjetBcLott_ZMmO/view?usp=sharing)
 
 - 🤖 Robots Addicted **,I love Memes a lot ^^**
 
