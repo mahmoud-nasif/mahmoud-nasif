@@ -1,7 +1,7 @@
 <img height="300" width="1500" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235197391-88aeba38-c413-46fe-b4d1-4404ce258f6d.png">
 <h1 align="center">Hey❤️I'm Mahmoud Nasif</h1>
 <h3 align="center">A passionate Robotics Engineer from Egypt🇪🇬</h3>
-<h3 align="center">Now: Mechatronics Master’s <student @ TUHH, Hamburg, Germany🇩🇪</h3>
+<h3 align="center">Now: Mechatronics Master’s student @ TUHH, Hamburg, Germany🇩🇪</h3>
 
 
 <img align="right" height="350" width="300" alt="Robotics" src="https://user-images.githubusercontent.com/98699016/235193647-6d9c741d-a7ce-4798-9034-e3fa7eb06a4d.gif">
